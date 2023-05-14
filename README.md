@@ -1,1 +1,1 @@
-"MIT-Pokerbots-2023. Texas Holed'em Variation: River of Blood" 
+"MIT-Pokerbots-2023. Texas Hold'em Variation: River of Blood" 
